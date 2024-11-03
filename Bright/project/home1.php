@@ -1,11 +1,4 @@
 <!-- Content for Home Page -->
-<!--
-    name : saed awad
-    id :212794531
-    --------
-    name : mahmoud naamneh
-    id: 322476813
--->
 <?php
 include("navbar.php");
 ?>
